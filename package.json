@@ -21,7 +21,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@angular-devkit/schematics-cli": "15.2.3",
+    "@angular-devkit/schematics-cli": "15.1.7",
     "@nestjs-modules/mailer": "^1.8.1",
     "@nestjs/apollo": "^10.1.7",
     "@nestjs/common": "^9.0.0",
